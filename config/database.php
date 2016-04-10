@@ -1,5 +1,5 @@
 <?php class Database{ 
- private $host = "localhost"; 
+ private $host = "localhost"; // nom de la base de données.
  private $db_name = "crud_angular_db"; 
  private $username = "root"; 
  private $password = ""; 
